@@ -1,4 +1,4 @@
-<h1>👋 Hi ! I am YuXue - 薛羽 </h1>
+<h1>👋 Hi , I am YuXue - 薛羽 </h1>
 <br>
 <ul>
   <li> 🍀 I’m interested in coding and music.</li>
