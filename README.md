@@ -2,7 +2,7 @@
 <br>
 <ul>
   <li> ⭐️ I’m interested in coding and music</li>
-  <li> 🍀 I’m currently learning Ruby on Rails</li>
+  <li> ☘️ I’m currently learning Ruby on Rails</li>
 </ul>
 
 <br>
