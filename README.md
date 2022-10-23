@@ -1,6 +1,7 @@
-- 👋 Hi, I’m YuXue ( 薛羽 )
+<h1>👋 Hi, I’m YuXue ( 薛羽 )</h1>
+<br>
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning Ruby on Rails for web dev.
+- 🌱 I’m currently learning Ruby on Rails and React Native.
 - 📫 This is my mail : 40940230S@gamil.com
 
 <!---
