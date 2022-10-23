@@ -6,7 +6,7 @@
   <li> 📫 This is my mail : 40940230S@gmail.com </li>
 </ul>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owen5254)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
