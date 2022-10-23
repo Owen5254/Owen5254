@@ -9,7 +9,7 @@
 <br>
 <h2> My Github Stat </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owen5254&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owen5254&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
