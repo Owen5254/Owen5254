@@ -3,7 +3,7 @@
 <ul>
   <li> 👀 I’m interested in coding and music.</li>
   <li> 🌱 I’m currently learning Ruby on Rails and React Native.</li>
-  <li> 📫 This is my mail : <a herf=40940230S@gmail.com></li>
+  <li> 📫 This is my mail : <a herf='40940230S@gmail.com'></li>
 </ul>
 
 <!---
