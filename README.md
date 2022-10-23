@@ -1,8 +1,8 @@
 <h1>👋 Hi , I am YuXue - 薛羽 </h1>
 <br>
 <ul>
-  <li style= "style='none'"> ⭐️ I’m interested in coding and music</li>
-  <li> ⭐️ I’m currently learning Ruby on Rails</li>
+  <li style= "list-style:none"> ⭐️ I’m interested in coding and music</li>
+  <li style= "list-style:none"> ⭐️ I’m currently learning Ruby on Rails</li>
 </ul>
 
 <br>
