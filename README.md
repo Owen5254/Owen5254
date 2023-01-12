@@ -5,7 +5,6 @@
   <li> ☘️ I’m currently learning Ruby on Rails</li>
   <li> ✨ Welcome to my blog : http://Owen5254.github.io </li>
 </ul>
-
 <br>
 <h2> My Github Stat </h2>
 
